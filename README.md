@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdelrahman-deif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-deif" height="30" width="40" /></a>
-<a href="https://fb.com/ebndaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebndaif" height="30" width="40" /></a>
-<a href="https://instagram.com/ebndaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebndaif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdelrahman-deif-748759243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-deif-748759243" height="30" width="40" /></a>
+<a href="https://fb.com/daif.eljoker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daif.eljoker" height="30" width="40" /></a>
+<a href="https://instagram.com/ebn_daif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebn_daif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
